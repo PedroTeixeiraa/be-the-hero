@@ -36,6 +36,7 @@ Para executar esse repositório baixe-o para sua maquina ou de um  `Git Clone`
 -   `$ npm start`  Ira iniciar o servidor de desenvolvimento do Expo
 
 ## 👀 Visualização 
+ [      ![visualizacao](https://raw.githubusercontent.com/PedroTeixeiraa/be-the-hero/master/screenshots/visualizacao.gif)](https://raw.githubusercontent.com/PedroTeixeiraa/be-the-hero/master/screenshots/visualizacao.gif)
 
 ## 📝  Licença
 
